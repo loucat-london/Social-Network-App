@@ -1,0 +1,18 @@
+Social Networks App - by Luisa Falqui
+
+To Launch the program: select Main class and run it as Java application
+
+The 4 commands work as specified in the requirements.
+
+Posting: write on the console with this syntax and spaces: <username> -> <message>
+
+Reading: just write: <username>
+
+Following: write with this syntax and spaces: <username> follows <other username>
+It works also if the first username has never posted.
+
+Wall: write with this syntax and spaces: <username> wall
+
+To Exit the application: write "quit".
+
+ 
